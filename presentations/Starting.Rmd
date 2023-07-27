@@ -1,0 +1,41 @@
+---
+title: "Starting"
+author: "Mark Fernandes"
+date: "2023-07-27"
+output:
+  ioslides_presentation: null
+  powerpoint_presentation: null
+  beamer_presentation: null
+  html_document: 
+  slidy_presentation: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+library(datasets)
+
+## Bring in data and display summary stats 
+```{r}
+data(iris)
+summary(iris)
+```
+
+## Plot every possible relationship
+```{r}
+plot(iris)
+```
+
+## explore possible relationship between sepal width & length
+```{r}
+plot(iris$Sepal.Width, iris$Sepal.Length)
+```
+
+## How is Sepal width distributed?
+```{r}
+hist(iris$Sepal.Width) 
+# Greater Sepal width seems to be associated smaller Sepal length
+```
+
+## Based on this RPubs page https://rpubs.com/moeransm/intro-iris 
