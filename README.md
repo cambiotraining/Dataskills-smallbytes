@@ -8,5 +8,5 @@ __Aims:__
 4. provide an alternative way for learners to access training.
 
 ## Materials
-1. [Presentations](presentations/) Creating Slideshows in Rstudio
+1. [Presentations](presentations/Create_presentations_in_R.md/) Creating Slideshows in Rstudio
 2. 
