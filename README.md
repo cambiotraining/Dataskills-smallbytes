@@ -10,4 +10,5 @@ __Aims:__
 
 ## Materials
 1. [Presentations](presentations/Create_presentations_in_R.md/) Creating Slideshows in Rstudio
-2. 
+2. [T3 - Train The Trainer]() Customised version of Elixir materials
+3. 
