@@ -2,4 +2,4 @@
 
 
 <iframe src="https://cambiotraining.github.io/IntroR-April2020/03-tidyverse.html#pipes" 
-  allowfullscreen="true" title="R-Intro course-Pipes"></iframe>
+  allow="fullscreen" title="R-Intro course-Pipes"></iframe>
