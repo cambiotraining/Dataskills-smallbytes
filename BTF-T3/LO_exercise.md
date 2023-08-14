@@ -2,7 +2,7 @@
 
 
 <iframe src="https://cambiotraining.github.io/IntroR-April2020/03-tidyverse.html#pipes" 
-  width="100%" height="100%" allow="fullscreen" title="R-Intro course-Pipes"></iframe>
+  width="100%" height="6000" allow="fullscreen" title="R-Intro course-Pipes"></iframe>
 
 
-  allow="fullscreen"
+  allow="fullscreen" height="6000"!
