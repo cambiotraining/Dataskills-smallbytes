@@ -1,11 +1,12 @@
+#### A derivative of the Elixir TrainTheTrainer/EXCELERATE-TtT materials
 
 # Session 1
 
 ## Review of learning principles and how they apply to training and teaching
 
 ## Topics of session 1
- * [How learning works](#learn)
- * [Our pedagogical model](#model)
+ * [Building a pedagogical model from our understanding of learning](#learn_model)
+
  * [The Bloom's six categories of cognitive skills](#bloom)
  * [Teaching Objectives and Learning Outcomes](#learning)
  * [Declarative and procedural knowledge](#declarative)
@@ -21,23 +22,21 @@
 ### Introduction
 
 ---
-
->*Learning results from what the student does and thinks and only from what the student does and thinks. The teacher can advance learning only by influencing what the student does to learn* 
->
->[H.A. Simon](https://en.wikipedia.org/wiki/Herbert_A._Simon) (one of the founders of the field of [Cognitive Science](https://en.wikipedia.org/wiki/Cognitive_science) and Nobel Laureate)
-
----
-This quotation from Herbert A. Simon clearly indicates that we cannot talk about teaching, teaching practices or effective teaching techniques if we don't understand first how people learn. <br>
-Here, we want to share with you what we learnt about how learning works. Our knowledge in the field of cognition and learning comes from diving into pedagogical and cognitive research results, reading books such as ["How Learning Works"](https://www.amazon.it/How-Learning-Works-Research-Based-Principles/dp/0470484101) or ["Small Teaching"](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118944496.html) and many others, studying research articles published in the field of cognitive science and educational psychology, attending instructor training courses (like this one), and - last but not least - from our own experience as both instructors/teachers, learners, and passionate observers of learning processes and teaching practices. <br>
-Since this material cannot cover the broad literature on the subject of learning we strongly invite you to commit to read at least one book on how learning works (for example: ["How Learning Works"](https://www.amazon.it/How-Learning-Works-Research-Based-Principles/dp/0470484101) or ["Small Teaching"](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118944496.html)), have a look at the [Software Carpentry Instructor training materials](http://swcarpentry.github.io/instructor-training/) and explore  the material we keep adding to the [doc](https://github.com/TrainTheTrainer/EXCELERATE-TtT/tree/master/docs) folder of the TrainTheTrainer/EXCELERATE-TtT GitHub repository.
-
+The successful delivery of education builds heavily upon the science of psychology where much time has been devoted to theorising and experimenting on how humans & animals learn. Additionally, many observational studies have been undertaken.
+Resources:        
+- ["How Learning Works"](https://www.amazon.it/How-Learning-Works-Research-Based-Principles/dp/0470484101)
+- ["Small Teaching"](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118944496.html) and educational psychology, attending instructor training courses (like this one), and - l
+- [Software Carpentry Instructor training materials (http://swcarpentry.github.io/instructor-training/)
+- plus more [here](https://github.com/TrainTheTrainer/EXCELERATE-TtT/tree/master/docs) 
+Add to this the experiences of instructors/teachers, learners, and  observers of learning processes and teaching practices. <br>
+Since this material cannot cover the broad literature on the subject of learning we strongly invite you to commit to read at least one book on how learning works (for 
 <a name="term"></a>
 
 ### Terminology used in learning
 
-Terminology used in learning is far from standardised. The several branches of the learning community have adopted different variants and occasionlly re-use terms in different contexts with slightly different meaning. [Here](doc/terminology.md) we try to offer a set of definitions that will help you to survive.
+Terminology used in learning is far from standardised. To help alleviate the confusion try this [set of definitions](doc/terminology.md).
 
-Out of this set, we propose a minimal subset of specific terms and concepts, that we need to know for this course. These are *cognition* and *metacognition*, *teaching* and *training*, and *teaching objectives (TO)* and *learning outcomes (LO)*. Each of these concepts will pop up several times in this materials. We will give their definition at the moment of introducing them. 
+Of these, we will focus upon a subset of specific terms and concepts for this course. These are *cognition* and *metacognition*, *teaching* and *training*, and *teaching objectives (TO)* and *learning outcomes (LO)*. Each of these concepts will pop up several times in this materials. We will go over their definitions when introducing them. 
 
 
 ## How learning works
@@ -60,7 +59,7 @@ Out of this set, we propose a minimal subset of specific terms and concepts, tha
 --- 
 ---
 
-#### What is learning?
+#### A definition of learning
 
 >From Ambrose et al. (2010) "How learning works":
 >
@@ -73,11 +72,11 @@ Out of this set, we propose a minimal subset of specific terms and concepts, tha
 - Learning is a change in the long term memory
 
 #### Which learning theory?
-Researchers in the field of cognitive sciences and educational psychology (the science of learning and teaching) have proposed a large number of learning theories. See for example the Holistic Approach to Techonology Enhanced Learning ([HoTEL](http://cmapspublic3.ihmc.us/rid=1LNV3H2J9-HWSVMQ-13LH/Learning%20Theory.cmap)) website. 
-Which ones should we rely on? Which one should we learn, teach and apply?
+Researchers in the field of cognitive sciences and educational psychology (the science of learning and teaching) have proposed numerous learning theories. e.g. Holistic Approach to Techonology Enhanced Learning ([HoTEL](http://cmapspublic3.ihmc.us/rid=1LNV3H2J9-HWSVMQ-13LH/Learning%20Theory.cmap))     
+__The problem of these riches is - which should we rely on? Which should we learn, teach and apply?__
 
-Learning is supported by a load of theories, some of them developed by schools of thought and large groups of enthusiastic followers. In the context of our session it may matter to recall some major points about them. It matters to say that most theories have been developed having the child learner in mind, so some aspects that reflect this bias will not apply to our activity. Adults' learning differs from children learning
-
+With respect to our session let us review some major points about these learning theories. Note that most theories have been developed having the child learner in mind, so some aspects that reflect this bias will not apply to our activity. Adults' learning differs from children learning
+>>> Mark Here <<<<
 **Behaviourism** (started in the early 20th century by John Broadus Watson):
 * Learning is acquiring new behaviours by conditioning.
 * Reflex response to stimuli
