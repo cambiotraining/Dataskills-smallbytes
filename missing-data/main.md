@@ -9,6 +9,7 @@
 ## Finding missing data (or rather detecting it)   
 
 <HR>
+
 ## Strategies for dealing with missing data (and their consequences).   
 ### Remove it (It didn't happen)
 ### Replace with average
